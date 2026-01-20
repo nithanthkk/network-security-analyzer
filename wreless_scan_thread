@@ -1,0 +1,3 @@
+output.insert(tk.END, "Enabling monitor mode...\n")
+output.insert(tk.END, "Scanning wireless networks...\n")
+output.insert(tk.END, "Disabling monitor mode...\n\n")

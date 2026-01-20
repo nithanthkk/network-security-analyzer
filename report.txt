@@ -1,0 +1,7 @@
+Network Scanner & Security Analyzer Report
+==========================================
+Target       : 127.0.0.1
+Resolved IP  : 127.0.0.1
+Scan Time    : 2026-01-16 15:35:02.976168
+
+No open ports detected.
